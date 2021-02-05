@@ -1,0 +1,5 @@
+C:\code\unity\Filme\Filme_1\Assets\Script\obj\Debug\net5.0\Script.csprojAssemblyReference.cache
+C:\code\unity\Filme\Filme_1\Assets\Script\obj\Debug\net5.0\Script.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\unity\Filme\Filme_1\Assets\Script\obj\Debug\net5.0\Script.AssemblyInfoInputs.cache
+C:\code\unity\Filme\Filme_1\Assets\Script\obj\Debug\net5.0\Script.AssemblyInfo.cs
+C:\code\unity\Filme\Filme_1\Assets\Script\obj\Debug\net5.0\Script.csproj.CoreCompileInputs.cache
